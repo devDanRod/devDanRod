@@ -1,5 +1,3 @@
-# 👋 Olá! Daniel Rodrigues por aqui, bem vindo!  
-
 
  💻 Minhas Habilidades e Tecnologias
 
